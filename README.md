@@ -83,7 +83,7 @@ I use this GitHub to document that progression through practical projects rather
 
 ## Connect
 
-- **Portfolio:** https://kaviya-mahendran-data-portfolio.zxapi.net/?utm_source=chatgpt.com
+- **Portfolio:** https://kaviya-mahendran-data-portfolio.zxapi.net
 - **Data & Analytics Blog:** https://kavidataanalytics.blogspot.com/
 - **GitHub:** https://github.com/Kaviya-Mahendran
 
